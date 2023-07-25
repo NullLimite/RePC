@@ -1,3 +1,3 @@
 # RePC
 
-RePC's code repository, the author is in the process of organizing the code
+RePC's code repository is in the process of organizing, I'm sorry for your wait.
